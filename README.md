@@ -1,0 +1,1 @@
+# -SC-100-Microsoft-Cybersecurity-Architect.ko-kr
