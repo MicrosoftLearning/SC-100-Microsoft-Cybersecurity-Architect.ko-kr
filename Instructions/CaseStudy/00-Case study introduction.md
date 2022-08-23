@@ -1,3 +1,9 @@
+---
+casestudy:
+  title: '사례 연구: 사례 연구 소개'
+  module: 'Module 0: Case study introduction'
+---
+
 ## <a name="case-study-introduction"></a>사례 연구 소개
 
 이 과정의 많은 사례 연구는 가상의 Tailwind Traders 회사가 직면한 사이버 보안 설계 과제를 기반으로 합니다.
@@ -6,6 +12,6 @@
 
 ## <a name="tailwind-traders"></a>Tailwind Traders
  
-Tailwind Traders는 현대적인 상거래 업체입니다. 지난 30여 년 동안 이 회사는 50여 곳의 오프라인 매장으로 사업을 확장할 정도로 인기 있는 소매업체였습니다. 몇 년 전, 이 회사의 CEO(최고 경영자)는 소매업계의 변화를 예상하고 틈새시장에서 공격적으로 성장하고 있는 경쟁사였던 한 전자상거래 스타트업을 인수했습니다. 현재 이 회사는 고객 중심의 로컬 웹 상점들을 보유한 혁신적인 선두업체로 자리매김하고 있습니다. 소매 혁신 팀은 회사 측이 인수한 전자상거래 스타트업의 전직 CEO였던 현재 회사의 CTO(최고 기술 책임자)에게 보고합니다. 이러한 기술 솔루션은 고객과의 상호 작용을 위한 기본 허브입니다. 이러한 솔루션은 글로벌 수익의 60%에 영향을 미치며 연간 총 매출의 30%를 산출합니다. 이러한 혁신의 예는 다음과 같습니다. •   경계가 없는 상거래: 원래는 단순한 전자상거래 솔루션이었던 이 맞춤형 플랫폼은 이제 고객을 위한 온라인 및 오프라인 환경을 제공합니다. 고객은 플랫폼에서 구매할 수 있습니다. 모바일 앱은 고객의 보기 기록에서 정보를 수집하여 매장 내 광고, 쇼핑 목록 및 그 외 상호 작용을 통해 소매 환경을 사용자 지정합니다.
-•   분석, AI 및 로봇 공학 혁신: 팀은 드론 배달, 자율적 웨어하우징 및 그 외 AI 주도 접근법을 실험적으로 활용해 비용을 절감하고 자동화를 통한 확장을 꾀하며 고객 환경을 개선하고 있습니다. 이러한 실험은 빅 데이터, 분석 및 AI 솔루션을 기반으로 합니다.
-신임 CIO는 핵심 비즈니스 운영에 대한 중단을 제한하면서도 여러 분야에서 기술 작업을 개선하여 회사 전반의 혁신을 강화하는 데 역점을 두고 있습니다. 이러한 전환에서 클라우드는 중요한 역할을 담당합니다.
+Tailwind Traders is a modern commerce company. For more than 30 years, the company has been a popular retail destination. It has grown to more than 50 physical stores. Several years ago, its chief executive officer (CEO) anticipated changes in retail and bought a competing e-commerce startup that was growing aggressively in niche markets. Today, the company is seen as an innovative leader with customer-focused local storefronts. The retail innovation team reports to the company's chief technology officer (CTO), who was the CEO of the acquired e-commerce start-up. Those technology solutions are the main hub for interactions with customers. Those solutions affect 60 percent of global revenue and produce 30 percent of annual gross sales. Examples of those innovations include: •   Boundless commerce: Originally a simple e-commerce solution, this custom-built platform now provides online and offline experiences for customers. Customers can make purchases from the platform. The mobile app gathers information from customers' viewing history to customize the retail experience with in-store ads, shopping lists, and other interactions.
+•   Analytics, AI, and robotics innovation: The team is experimenting with drone delivery, autonomous warehousing, and other AI-led approaches to reduce costs, scale through automation, and improve customer experiences. These experiments are built on big data, analytics, and AI solutions.
+The new CIO is focused on improving technical operations in multiple areas to fuel greater innovation throughout the company while limiting disruptions to core business operations. The cloud will play an important role in this transition.
