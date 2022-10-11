@@ -1,3 +1,9 @@
+---
+casestudy:
+  title: 네트워크 아키텍처 모범 사례
+  module: 'Module 6: Understand architecture best practices'
+---
+
 이 사례 연구 연습은 이 모듈에서 학습한 주제와 관련된 몇 가지 개념적 디자인 작업을 수행하는 경험을 제공하도록 설계되었습니다.
 
 ## <a name="case-study-architecture-best-practices"></a>사례 연구: 아키텍처 모범 사례

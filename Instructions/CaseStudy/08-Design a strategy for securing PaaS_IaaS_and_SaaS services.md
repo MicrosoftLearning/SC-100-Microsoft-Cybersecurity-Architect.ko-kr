@@ -1,3 +1,9 @@
+---
+casestudy:
+  title: 'PaaS, IaaS 및 SaaS 서비스 보안 전략 설계'
+  module: 'Module 8: Design a strategy for securing PaaS_IaaS_and_SaaS services'
+---
+
 이 사례 연구 연습은 이 모듈에서 학습한 주제와 관련된 몇 가지 개념적 디자인 작업을 수행하는 경험을 제공하도록 설계되었습니다.
 
 ## <a name="case-study-securing-paas-iaas-and-saas-services"></a>사례 연구: PaaS, IaaS 및 SaaS 서비스 보안
@@ -10,7 +16,7 @@ Tailwind Traders는 가상의 주택 개조용품 소매업체입니다. 이 회
 
 -   VM 및 컨테이너에 대한 네이티브 취약성 평가를 제공하고 Cosmos DB에 대한 위협 탐지를 지원할 수 있는 클라우드 보안 태세 관리 플랫폼을 구현합니다.
 -   SQL 데이터베이스 및 스토리지 계정에서 데이터를 분류하고 레이블을 지정할 수 있는 Azure 워크로드에 대한 데이터 분류 시스템을 구현합니다.
--   Microsoft 365 SaaS 워크로드에 대한 보안 기준 구현
+-   Microsoft 365 SaaS 워크로드에 대한 보안 기준 구현 
 -   IoT 워크로드에 대한 보안 상태 관리 및 위협 탐지 지원
 
 ## <a name="design-tasks"></a>디자인 작업
