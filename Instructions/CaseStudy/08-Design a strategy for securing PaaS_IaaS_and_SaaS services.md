@@ -1,3 +1,9 @@
+---
+casestudy:
+  title: 'Design a strategy for securing PaaS_IaaS_and_SaaS services'
+  module: 'Module 8: Design a strategy for securing PaaS_IaaS_and_SaaS services'
+---
+
 이 사례 연구 연습은 이 모듈에서 학습한 주제와 관련된 몇 가지 개념적 디자인 작업을 수행하는 경험을 제공하도록 설계되었습니다.
 
 ## <a name="case-study-securing-paas-iaas-and-saas-services"></a>사례 연구: PaaS, IaaS 및 SaaS 서비스 보안
