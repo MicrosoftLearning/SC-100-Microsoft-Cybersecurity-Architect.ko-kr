@@ -1,6 +1,6 @@
 ---
 casestudy:
-  title: 'Design a strategy for securing data'
+  title: 'CaseStudy: 데이터 보안'
   module: 'Module 10: Design a strategy for securing data'
 ---
 

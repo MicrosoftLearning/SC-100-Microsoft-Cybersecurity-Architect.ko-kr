@@ -1,9 +1,8 @@
 ---
 casestudy:
-  title: 'Specify security requirements for applications'
+  title: 'CaseStudy: 애플리케이션에 대한 요구 사항'
   module: 'Module 9: Specify security requirements for applications'
 ---
-
 
 이 사례 연구 연습은 이 모듈에서 학습한 주제와 관련된 몇 가지 개념적 디자인 작업을 수행하는 경험을 제공하도록 설계되었습니다.
 

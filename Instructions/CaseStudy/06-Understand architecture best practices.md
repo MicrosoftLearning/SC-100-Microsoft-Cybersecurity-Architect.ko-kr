@@ -1,6 +1,6 @@
 ---
 casestudy:
-  title: 'Understand architecture best practices'
+  title: 네트워크 아키텍처 모범 사례
   module: 'Module 6: Understand architecture best practices'
 ---
 

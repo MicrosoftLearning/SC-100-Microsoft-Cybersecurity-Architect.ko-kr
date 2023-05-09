@@ -8,16 +8,16 @@ casestudy:
 
 ## <a name="case-study-evaluate-regulatory-compliance"></a>사례 연구: 규정 준수 평가
 
-Contoso Pharma is an international pharmaceutical industry with a presence in North America and Europe. Contoso Pharma has workloads on-premises and in Azure. The goal is that in the next two years, all workloads will be fully in Azure and there will be minimum workloads on-premises. Below is a list of their major workloads:
+Contoso Pharma는 북아메리카 및 유럽에 있는 국제 제약 회사입니다. Contoso Pharma는 온-프레미스 및 Azure에 워크로드가 있습니다.  목표는 향후 2년 안에 모든 워크로드를 완전히 Azure에 두고 온-프레미스에는 최소한의 워크로드만 두는 것입니다.  다음은 주요 워크로드 목록입니다.
 
 - VM(Windows 및 Linux)
 - Storage 계정
 - Key Vault
 - SQL PaaS 및 VM의 SQL
 
-Contoso Pharma also has a Site-to-Site VPN between the headquarters in Redmond and the main office in London. This VPN is used to allow resources on-premises to communicate.
+Contoso Pharma는 또한 레드몬드에 있는 본사와 런던의 본사 사이에 사이트 간 VPN을 사용하고 있습니다.  이 VPN은 온-프레미스 리소스가 통신할 수 있도록 하는 데 사용됩니다.
 
-Contoso Pharma has a legacy environment in Redmond composed by a couple of Windows Server 2012 running a Web Server that is used by the application that queries the database to check for customer's information. Upon investigation it was noted that the communication of the legacy web server with the database is done via HTTP.
+Contoso Pharma는 데이터베이스를 쿼리하여 고객의 정보를 확인하는 애플리케이션에서 사용하는 웹 서버를 실행하는 Windows Server 2012 몇 개로 구성된 레거시 환경을 레드몬드에 보유하고 있습니다. 조사 결과 레거시 웹 서버와 데이터베이스의 통신은 HTTP를 통해 수행되었습니다.
 
 ### <a name="design-requirements"></a>디자인 요구 사항
 
@@ -38,9 +38,9 @@ Contoso Pharma는 아래 표와 같이 워크로드에 따라 규정 준수 요�
 
 ### <a name="design-tasks"></a>디자인 작업
 
-* To ensure that Contoso Pharma can analyze their compliance status over time, which tool should be utilized? Select the most appropriate option.
+* Contoso Pharma가 시간별로 규정 준수 상태를 분석할 수 있도록 하려면 어떤 도구를 사용해야 하나요? 가장 적합한 옵션을 선택하세요.
 * 워크로드 소유자가 필수 표준을 따르는 리소스만 만들도록 하려면 Azure에서 어떤 서비스를 사용해야 하나요?
 * 워크로드 소유자가 리소스를 만들 때 데이터를 올바른 지리적 위치에 보관하도록 하려면 어떤 옵션을 활용해야 하나요?
 * Contoso Pharma는 프로비전된 VM이 PCI DSS를 준수하는지 어떻게 확인할 수 있으며 준수하지 않을 경우 수정하기 위해 어떤 작업을 수행해야 하나요?
-* Contoso Pharma는 북아메리카 및 유럽에 있는 국제 제약 회사입니다.
+* 데이터 암호화는 개인 정보 요구 사항을 해결하기 위한 필수 구성 요소입니다. 암호화를 적용해야 하는 데이터 스테이지는 무엇인가요? 
 * 워크로드 간에 데이터 암호화를 적용하는 데 사용할 수 있는 Azure 서비스는 무엇인가요?
