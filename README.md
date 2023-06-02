@@ -1,4 +1,4 @@
-# <a name="sc-100-microsoft-cybersecurity-expert"></a>SC-100: Microsoft 사이버 보안 전문가
+# SC-100: Microsoft 사이버 보안 전문가
 
 이 리포지토리에는 다음과 같은 SC-100의 사례 연구가 포함됩니다. Microsoft 사이버 보안 설계자 인증
 
@@ -13,3 +13,6 @@
 * [보안 PaaS, IaaS 및 SaaS 서비스 전략 설계](/Instructions/CaseStudy/08-Design%20a%20strategy%20for%20securing%20PaaS_IaaS_and_SaaS%20services.md)
 * [애플리케이션에 대한 보안 요구사항 지정](/Instructions/CaseStudy/09-Specify%20security%20requirements%20for%20applications.md)
 * [데이터 보안을 위한 전략 설계](/Instructions/CaseStudy/10-Design%20a%20strategy%20for%20securing%20data.md)
+* [MCRA 및 MCSB 관련 모범 사례](/Instructions/CaseStudy/11-Best%20practices%20with%20MCRA%20and%20MCSB.md)
+* [CAF를 통한 보안 방법론 권장](/Instructions/CaseStudy/12-Secure%20methodology%20with%20CAF.md)
+* [Microsoft 보안 모범 사례를 사용하여 랜섬웨어 전략 권장](/Instructions/CaseStudy/13-Ransomware%20strategy.md)
