@@ -1,12 +1,12 @@
 ---
 casestudy:
-  title: '사례 연구: 보안 태세 평가'
-  module: 'Module 5: Evaluate security posture and recommend technical strategies'
+  title: 'CaseStudy: 보안 상태 관리 및 위협 인텔리전스를 위한 솔루션 설계'
+  module: 'Module 13: Design solutions for security posture management in hybrid and multi-cloud environments'
 ---
 
 이 사례 연구 연습은 이 모듈에서 학습한 주제와 관련된 몇 가지 개념적 디자인 작업을 수행하는 경험을 제공하도록 설계되었습니다.
 
-## 사례 연구: 보안 태세 평가
+## 사례 연구: 하이브리드 및 다중 클라우드 환경에서 보안 태세 관리를 위한 솔루션 설계
 
 Tailwind Traders는 현대적인 상거래 업체입니다. 지난 30여 년 동안 이 회사는 50여 곳의 오프라인 매장으로 사업을 확장할 정도로 인기 있는 소매업체였습니다. 몇 년 전, 이 회사의 CEO(최고 경영자)는 소매업계의 변화를 예상하고 틈새시장에서 공격적으로 성장하고 있는 경쟁사였던 한 전자상거래 스타트업을 인수했습니다.  현재 이 회사는 고객 중심의 로컬 웹 상점들을 보유한 혁신적인 선두업체로 자리매김하고 있습니다.
 
