@@ -1,12 +1,12 @@
 ---
 casestudy:
-  title: '사례 연구: 애플리케이션 요구 사항'
-  module: 'Module 9: Specify security requirements for applications'
+  title: 'CaseStudy: 애플리케이션 보안을 위한 솔루션 설계'
+  module: 'Module 10: Design solutions for securing applications'
 ---
 
 이 사례 연구 연습은 이 모듈에서 학습한 주제와 관련된 몇 가지 개념적 디자인 작업을 수행하는 경험을 제공하도록 설계되었습니다.
 
-## 사례 연구: 애플리케이션에 대한 요구 사항
+## 사례 연구: 애플리케이션 보안을 위한 솔루션 설계
 
 Tailwind Traders는 가상의 주택 개조용품 소매업체입니다. 이 회사는 전 세계와 온라인에서 철물 소매 매장을 운영하고 있습니다. Tailwind Traders CISO는 Azure에서 제공하는 기회를 알고 있지만 강력한 보안과 견고한 클라우드 아키텍처의 필요성도 이해하고 있습니다. 강력한 보안과 훌륭한 참조 아키텍처가 없으면 회사는 추적 및 제어하기 어려운 Azure 환경 및 비용을 관리하는 데 어려움을 겪을 수 있습니다. CISO는 Azure가 보안 표준을 관리하고 적용하는 방법을 이해하는 데 관심이 있습니다.
 
