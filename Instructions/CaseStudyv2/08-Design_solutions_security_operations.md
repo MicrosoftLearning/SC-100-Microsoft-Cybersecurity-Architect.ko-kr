@@ -1,6 +1,6 @@
 ---
 casestudy:
-  title: 'CaseStudy: 보안 작업을 위한 솔루션 설계'
+  title: 'CaseStudy: 보안 작업을 위한 솔루션 디자인'
   module: 'Module 08: Design solutions for security operations'
 ---
 
@@ -12,13 +12,13 @@ Tailwind Traders는 가상의 주택 개조용품 소매업체입니다. 이 회
 
 ### 요구 사항
 
-Tailwind Traders는 보안 운영에 몇 가지 중요한 변경을 계획하고 있습니다.  권장 사항 및 질문에 대한 지원을 요청했습니다. 특정 요구 사항은 다음과 같습니다.
+Tailwind Traders는 보안 운영에 몇 가지 중요한 변경을 계획하고 있습니다. 권장 사항 및 질문에 대한 지원을 요청했습니다. 특정 요구 사항은 다음과 같습니다.
 
 **보안 및 활동 로그** 
 
 이 회사는 고객 환경을 위한 새로운 보안 최적화 프로젝트를 가지고 있습니다. CISO는 사용 가능한 모든 Azure 로그가 Microsoft Sentinel 내에서 제공되고 상호 연결되도록 하려고 합니다.
 
-### 디자인 작업
+### 설계 작업
 
 **보안 및 활동 로그**
 
