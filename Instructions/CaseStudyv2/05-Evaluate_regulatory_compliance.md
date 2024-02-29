@@ -1,6 +1,6 @@
 ---
 casestudy:
-  title: 'CaseStudy: 규정 준수 평가'
+  title: '사례 연구: 규정 준수 평가'
   module: 'Module 05: Design solutions for regulatory compliance'
 ---
 

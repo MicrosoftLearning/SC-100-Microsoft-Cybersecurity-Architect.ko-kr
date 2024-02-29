@@ -1,7 +1,7 @@
 ---
 casestudy:
-  title: 'CaseStudy: Microsoft 365 보안을 위한 솔루션 설계'
+  title: '사례 연구: Microsoft 365를 위한 솔루션 설계'
   module: 'Module 09: Design solutions for securing Microsoft 365'
 ---
 
-건설 중인 사례 연구.
+진행 중인 사례 연구.

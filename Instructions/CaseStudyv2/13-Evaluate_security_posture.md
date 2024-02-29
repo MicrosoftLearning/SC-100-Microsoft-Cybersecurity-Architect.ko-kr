@@ -1,6 +1,6 @@
 ---
 casestudy:
-  title: 'CaseStudy: 보안 상태 관리 및 위협 인텔리전스를 위한 솔루션 설계'
+  title: '사례 연구: 보안 태세 관리 및 위협 인텔리전스를 위한 솔루션 디자인'
   module: 'Module 13: Design solutions for security posture management in hybrid and multi-cloud environments'
 ---
 

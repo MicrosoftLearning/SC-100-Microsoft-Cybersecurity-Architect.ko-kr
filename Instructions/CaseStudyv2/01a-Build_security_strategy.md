@@ -1,6 +1,6 @@
 ---
 casestudy:
-  title: 'CaseStudy: 제로 트러스트 솔루션 디자인'
+  title: '사례 연구: 제로 트러스트 솔루션 디자인'
   module: 'Module 01: Introduction to Zero Trust and best practice frameworks'
 ---
 
