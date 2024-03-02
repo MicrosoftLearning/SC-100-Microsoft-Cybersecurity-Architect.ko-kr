@@ -1,6 +1,6 @@
 ---
 casestudy:
-  title: 'CaseStudy: 애플리케이션 보안을 위한 솔루션 설계'
+  title: '사례 연구: 애플리케이션 보안을 위한 솔루션 설계'
   module: 'Module 10: Design solutions for securing applications'
 ---
 

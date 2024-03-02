@@ -1,6 +1,6 @@
 ---
 casestudy:
-  title: 'CaseStudy: 아키텍처 모범 사례'
+  title: '사례 연구: 아키텍처 모범 사례'
   module: 'Module 01: Introduction to Zero Trust and best practice frameworks'
 ---
 
