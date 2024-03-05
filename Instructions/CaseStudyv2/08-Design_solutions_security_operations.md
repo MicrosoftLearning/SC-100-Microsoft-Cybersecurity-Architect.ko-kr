@@ -1,6 +1,6 @@
 ---
 casestudy:
-  title: 'CaseStudy: 보안 작업을 위한 솔루션 디자인'
+  title: '사례 연구: 보안 작업을 위한 솔루션 설계'
   module: 'Module 08: Design solutions for security operations'
 ---
 
