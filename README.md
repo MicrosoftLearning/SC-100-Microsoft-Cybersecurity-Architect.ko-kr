@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # SC-100: Microsoft 사이버 보안 전문가
 
 이 리포지토리에는 다음과 같은 SC-100의 사례 연구가 포함됩니다. Microsoft 사이버 보안 설계자 인증
