@@ -34,12 +34,9 @@
 
 1. 클라이언트 1 VM(LON-Sc1)에 **lon-sc1\admin** 계정으로 로그인합니다. 암호는 랩 호스팅 공급자가 제공합니다.
 1. 마우스 오른쪽 단추를 눌러 시작 메뉴를 선택하여 **PowerShell** 창을 연 다음 **터미널**을 선택합니다.
-1. 다음 cmdlet을 입력하여 현재 외부 IP 주소를 확인합니다.
-    ```powershell
-    curl ifconfig.me | Select-String -Pattern '.'
-    ```
+1. 다음 cmdlet을 입력하여 현재 외부 IP 주소를 확인합니다.  `Invoke-RestMethod -Uri "http://ifconfig.me/ip"` 
 1. PowerShell에서 반환된 IP 주소를 적어 둡니다.
-1. **Microsoft Edge**를 열고 주소 표시줄을 선택한 다음 **`https://entra.microsoft.com`** 로 이동하여 Entra ID 포털에 **MOD 관리자**(admin@WWLxZZZZZZ.onmicrosoft.com)로 로그인합니다(ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID). 관리자의 암호는 랩 호스팅 공급자가 제공합니다.
+1. **Microsoft Edge**를 열고 주소 표시줄을 선택한 다음 **`https://entra.microsoft.com`**(으)로 이동하여 Entra ID 포털에 **MOD 관리자**(admin@WWLxZZZZZZ.onmicrosoft.com)로 로그인합니다(ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID). 관리자의 암호는 랩 호스팅 공급자가 제공합니다.
 1. 다단계 인증을 설정하라는 메시지가 표시되면 지침을 따릅니다.
 1. 로그인 상태를 유지하시겠습니까? 대화 상자에서 **이 메시지를 다시 표시 안 함** 체크박스를 선택하고 **아니요**를 선택합니다.
 1. 브라우저에 기본 전역 관리자 자격 증명을 저장하지 않으려면 **지금 안 함**을 선택하여 암호 저장 대화 상자를 닫습니다.
@@ -85,7 +82,7 @@
 실제 시나리오에서는 더 크고 대표적인 그룹을 사용하고 더 긴 테스트 기간을 수행하여 예측할 수 없는 인시던트가 결과를 왜곡하지 않도록 합니다.
 
 1. **Microsoft Edge** 브라우저에서 작업 표시줄 아이콘을 오른쪽 마우스 단추로 선택하여 새 **InPrivate** 창을 연 다음 **새 InPrivate 창**을 선택합니다.
-1. 주소 표시줄을 선택하고 **`https://portal.microsoft.com`** 으로 이동한 다음 **Allan Deyoung**(alland@WWLxZZZZZZ.onmicrosoft.com)으로 M365 Portal에 로그인합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공하는 고유 테넌트 ID). 사용자의 암호는 랩 호스팅 공급자가 제공해야 합니다.
+1. 주소 표시줄을 선택하고 **`https://portal.microsoft.com`** 로 이동한 다음 **Allan Deyoung**alland@WWLxZZZZZZ.onmicrosoft.com로 M365 Portal에 로그인합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공하는 고유 테넌트 ID임). 사용자의 암호는 랩 호스팅 공급자가 제공해야 합니다.
 1. 로그인 상태를 유지하시겠습니까? 대화 상자에서 **이 메시지를 다시 표시 안 함** 체크박스를 선택하고 **아니요**를 선택합니다.
 1. 로그인에 성공했기 때문에 **InPrivate** 창을 닫을 수 있습니다.
 1. Entra ID 포털 **https://entra.microsoft.com**에 계속 로그인된 상태인 Edge 브라우저 창으로 다시 전환합니다.
